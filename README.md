@@ -1,1 +1,1 @@
-# code for our paper Neural Collaborative Filtering
+# code for our paper Neural Collaborative Ranking
